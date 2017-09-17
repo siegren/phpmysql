@@ -12,11 +12,11 @@ After you installed xampp, start the control panel and start apache and mysql. A
 
 We will use phpmyadmin to create database. To create a database you can follow this [tutorial.](https://www.siteground.com/tutorials/phpmyadmin/phpmyadmin_create_database.htm)
 
-In program, my database name is "db_users" and the table name is "uuser". The table has only two(2) fields, uname and password. Populate your database after you're done creating it.
+In this program, my database name is "db_users" and the table name is "uuser". The table has only two(2) fields, uname and password. Populate your database after you're done creating it.
 
 ##### Step 2. Create the files.
 
-After you installed the xampp, there will be a xampp folder in your drive or which ever drive you installed the xampp.
+After you installed the xampp, there will be a xampp folder in your drive C or which ever drive you installed the xampp.
 
 Navigate to the xampp folder and go to the folder htdocs. Inside the "htdocs", create a folder "basiclogin". Add three(3) fildes, index.php, profile.php, and login.php.
 
