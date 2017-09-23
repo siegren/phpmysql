@@ -12,7 +12,7 @@ After you installed xampp, start the control panel and start apache and mysql. A
 
 We will use phpmyadmin to create database. To create a database you can follow this [tutorial.](http://documentation.flytheme.net/how-to-create-a-mysql-database-using-xampp/)
 
-In this program, my database name is "db_users" and the table name is "uuser". The table has only two(2) fields, uname and password. Populate your database after you're done creating it.
+In this program, my database name is "db_users" and the table name is "uuser". The table has only two(2) fields, uname and pword. Populate your database after you're done creating it.
 
 ##### Step 2. Create the files.
 
