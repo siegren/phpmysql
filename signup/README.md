@@ -37,7 +37,7 @@ In the signup.php, put the following codes
 		// INSERT INTO is ansql command to add new record to the databse
 		$sql="INSERT INTO uuser VALUES('". $_POST["txtuname"] ."', '". $_POST["txtpword"] ."')";
 		$con->query($sql); //the command will be executed and a new record will be added to the databse
-		echo "New Record Saved!"!
+		echo "New Record Saved!";
 	}
 
 ?>
